@@ -1,8 +1,6 @@
 # Fraunhofer AISEC
 
-Welcome to the GitHub Pages of Fraunhofer AISEC 👋
-
-We have two main categories of projects up and running on GitHub: Maintained open-source projects and archived 
+Welcome to the GitHub Pages of Fraunhofer AISEC 👋. We have two main categories of projects up and running on GitHub: Maintained open-source projects and archived paper artifacts.
 
 ## Maintained Open Source Projects
 
