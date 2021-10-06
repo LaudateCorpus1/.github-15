@@ -6,7 +6,7 @@ Welcome to the GitHub Pages of Fraunhofer AISEC 👋. We have two main categorie
 
 Our open-source projects, such as [Codyze](http://github.com/Fraunhofer-AISEC/codyze), [cpg](http://github.com/Fraunhofer-AISEC/cpg) and many others are regularly maintained by a group of people at Fraunhofer. However, please keep in mind, that in the end this is not a commercial software product, only open-source.
 
-Also make sure to checkout or projects that we host on different organisations, mainly [Clouditor](http://github.com/clouditor/clouditor) and the [Trusted Connector](https://github.com/industrial-data-space/trusted-connector).
+Also make sure to checkout out projects that we host on different GitHub organisations, mainly [Clouditor](http://github.com/clouditor/clouditor) and the [Trusted Connector](https://github.com/industrial-data-space/trusted-connector).
 
 ## Archived Artifacts for Research Papers
 
